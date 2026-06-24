@@ -46,4 +46,5 @@ This project analyzes Amazon India e-commerce sales data to identify sales trend
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="701" height="392" alt="dashboard png" src="https://github.com/user-attachments/assets/338104ed-a700-4a99-8623-8bdb72a82a62" />
+
