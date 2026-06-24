@@ -43,3 +43,7 @@ This project analyzes Amazon India e-commerce sales data to identify sales trend
 ## Project Status
 
 ✅ Completed
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
