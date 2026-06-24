@@ -48,3 +48,8 @@ This project analyzes Amazon India e-commerce sales data to identify sales trend
 
 <img width="701" height="392" alt="dashboard png" src="https://github.com/user-attachments/assets/338104ed-a700-4a99-8623-8bdb72a82a62" />
 
+## Author
+
+Varshini BM
+
+Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
